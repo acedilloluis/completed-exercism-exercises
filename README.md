@@ -1,2 +1,2 @@
-# completed-exercism-exercises
-Solutions to exercises available on exercism.org.
+## Exercism
+[exercism.org](https://exercism.org)
